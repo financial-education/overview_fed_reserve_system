@@ -21,15 +21,24 @@ So the Fed as it is really only dates to the 1970s (when we left the gold standa
 The Fed is comprised of 5 subdivisions:
 
 1.  Board of Governors
-2.  Federal Open Market Committee
-3.  Fed District Banks
+2.  Fed District Banks
+3.  Federal Open Market Committee (FORMIC)
 4.  Advisory Committees
 5.  Member Banks (commercial banks)
 
-** Board of Governors
+** Board of Governors (BOG)
 
 Comprised of 7 members appointed by POTUS (confirmed by Congress) for 14-year non-renewable terms.  One member is appointed by POTUS to be the Chairperson (again confirmed by Congress).  The Chairperson has no more vote than the other members.  The Board oversees the dual roles of the Fed (1) implement monetary policy and (2) to regulate commercial banks.
 
+** Fed District Banks
+
+There are 12 district banks across the US.  [[https://www.stlouisfed.org/about-us/federal-reserve-map][See the interactive map here with links to each district bank.]] The district Fed banks are responsible for reporting the economic conditions in their district, as well as clearing checks, and offering loans to regional depository institutions through the discount window.
+
+Notably, when a commercial bank becomes a member of the Fed system, it has to purchase stock in its Fed district bank.  This stock is not publicly traded.  So the Fed district bank are owned by commercial banks.
+
+Each district bank is overseen by 9 directors---three appointed by the BOG, and 6 by member banks.  The 9 directors elect a president of the Fed district bank.
+
+** FOMC
 
 * Monetary Policy
 
