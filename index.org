@@ -31,6 +31,14 @@ The Fed is comprised of 5 subdivisions:
 Comprised of 7 members appointed by POTUS (confirmed by Congress) for 14-year non-renewable terms.  One member is appointed by POTUS to be the Chairperson (again confirmed by Congress).  The Chairperson has no more vote than the other members.  The Board oversees the dual roles of the Fed (1) implement monetary policy and (2) to regulate commercial banks.
 
 
+* Monetary Policy
+
+
+** Reserve Requirement Ratio
+
+If you look in most textbooks, it will likely list adjusting the reserve requirement ratio as one of the tools the Fed has to adjust the money supply. There is also a discussion of the /money multiplier/.
+
+[[https://www.federalreserve.gov/monetarypolicy/reservereq.htm][However, on March 15, 2020 the Fed Board of Governors announced that they were setting the reserve requirement ratio to 0%, thereby eliminating reserve requirements for all depository institutions.]]
 
 
 
