@@ -68,7 +68,11 @@ At each meeting these economic reports are presented.  From these FOMC decision 
 
 ** Open Market Operations (the Implementation)
 
-Say for example, the FOMC decides to raise the Federal Funds rate[fn:4] from 5.0% to 5.25%.  The Fed can't simply mandate that banks lend to each other at this rate.  The Fed must change the supply of funds, thereby affecting the Federal Funds rate.  So management of the /target/ Federal Funds is a constant process.
+Say for example, the FOMC decides to raise the Federal Funds rate[fn:4] from 5.0% to 5.25%.  The Fed can't simply mandate that banks lend to each other at this rate.  The Fed must change the supply of funds, thereby affecting the Federal Funds rate.  So management of the /target/ Federal Funds is a constant process. See the chart below of the /effective/ Federal Funds rate.  The rate deviates from the target by small amounts. You may have to zoom in a bit to see the defiations.
+
+#+begin_export html
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1fshl&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+#+end_export
 
 To change the supply of funds, the Fed trading desk (at the NY Fed) conducts /open market operations/.  If the Fed wants to raise the Federal funds rate (As in our example) it sells securities.  This sale decreases the money supply, which raises the value of money (the interest rate).  If instead the Fed wanted to lower the Federal Funds rate it would have bought securities, which increases the money supply and lowers interest rates.
 
