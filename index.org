@@ -6,7 +6,7 @@
 
 In these notes we'll cover the Federal Reserve System (hereafter 'the Fed') paying particular attention to its role in monetary policy and the regulation of financial institutions.
 
-* A Brief History[^1] of the Fed
+* A Brief History[fn:2] of the Fed
 
 The Fed was created in 1913 with the passing of the Federal Reserve Act.  The creation of the Fed (a central bank for the US) was not without opponents.  See this paper for arguments against the Fed (TODO: cite). 
 
@@ -22,7 +22,7 @@ The Fed is comprised of 5 subdivisions:
 
 1.  Board of Governors
 2.  Fed District Banks
-3.  Federal Open Market Committee (FORMIC)
+3.  Federal Open Market Committee (FOMC)
 4.  Advisory Committees
 5.  Member Banks (commercial banks)
 
@@ -40,8 +40,27 @@ Each district bank is overseen by 9 directors---three appointed by the BOG, and 
 
 ** FOMC
 
+The FOMC is tasked[fn:1] by [[https://www.federalreserve.gov/monetarypolicy/files/fomc_longerrungoals.pdf][Congress with "promoting maximum employment, stable prices, and moderate long-term interest rates".]]  It does so through the use of open market operations, the discount rate, and reserve requirement (now set to 0%). 
+
+The composition of the FOMC is:
+
+- seven members of the BOG
+- the president of the NY district bank (because NY implements monetary policy)
+- presidents of 4 other district banks.  These president rotate on and off the committee.
+
+** Advisory Committees
+
+The Fed creates various advisory committees which we won't discuss here.  They may change over time.  [[https://www.federalreserve.gov/aboutthefed/advisorydefault.htm][Here is a present list.]]
+
 * Monetary Policy
 
+/Monetary Policy/ refers to control over the money supply. There are different measures of money supply, but here we can use the term to simply refer to the amount of money in the economy (leaving strict definitions of /money/ until later).
+
+The Fed changes the money supply in order to affect the real economy[fn:3].  The effect on interest rates and asset prices is a means to an end---real economic growth.
+
+** Outline of the Monetary Policy Process
+
+Remember, the FOMC is the Fed committee which controls monetary policy.  The FOMC is scheduled to meet 8 times per year, however it can schedule additional meeting if needed (though this would only be done for extreme market conditions).
 
 ** Reserve Requirement Ratio
 
@@ -51,4 +70,9 @@ If you look in most textbooks, it will likely list adjusting the reserve require
 
 
 
-[^1]: While not intended to be, the Fed is unfortunately a political institution.  Stated simply, the Fed enables political policies.  This means any history of the Fed tends to be biased in accordance with the author's political opinions.
+* Footnotes
+
+[fn:3]Note many economists think this is not possible---see Milton Friedman. 
+[fn:2] While not intended to be, the Fed is unfortunately a political institution.  Stated simply, the Fed enables political policies.  This means any history of the Fed tends to be biased in accordance with the author's political opinions. 
+
+[fn:1] Do you see a contradiction in the following goals? 
