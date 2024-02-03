@@ -68,7 +68,7 @@ At each meeting these economic reports are presented.  From these FOMC decision 
 
 ** Open Market Operations (the Implementation)
 
-Say for example, the FOMC decides to raise the Federal Funds rate[fn:4] from 5.0% to 5.25%.  The Fed can't simply mandate that banks lend to each other at this rate.  The Fed must change the supply of funds, thereby affecting the Federal Funds rate.  So management of the /target/ Federal Funds is a constant process. See the chart below of the /effective/ Federal Funds rate.  The rate deviates from the target by small amounts. You may have to zoom in a bit to see the defiations.
+Say for example, the FOMC decides to raise the Federal Funds rate[fn:4] from 5.0% to 5.25%.  The Fed can't simply mandate that banks lend to each other at this rate.  The Fed must change the supply of funds, thereby affecting the Federal Funds rate.  So management of the /target/ Federal Funds is a constant process. See the chart below of the /effective/ Federal Funds rate.  The rate deviates from the target by small amounts. You may have to zoom in a bit to see the deviations.
 
 #+begin_export html
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1fshl&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
@@ -79,10 +79,16 @@ To change the supply of funds, the Fed trading desk (at the NY Fed) conducts /op
 #+begin_quote
 When you buy or sell securities the money supply doesn't change.  Why does the money supply change when the Fed buys or sells securities?
 
-The key is the Fed is the source of money; it can't have any more or less.  
+The key is the Fed is the source of money; it can't have any more or less.  So when the Fed buys securities it creates money and credits the sellers account. Alternatively when the Fed buys securities it receives money, which goes away as the Fed's accounts can't have more money.
 #+end_quote
 
+*** The Discount Rate
 
+https://www.federalreserve.gov/monetarypolicy/discountrate.htm
+
+*** Do OMO Only Affect Short-Term Rates?
+
+Historically the FOMC has only adjusted the Federal Funds and Discount rate, which are both short term rates.
 
 ** Reserve Requirement Ratio
 
