@@ -82,6 +82,15 @@ When you buy or sell securities the money supply doesn't change.  Why does the m
 The key is the Fed is the source of money; it can't have any more or less.  So when the Fed buys securities it creates money and credits the sellers account. Alternatively when the Fed buys securities it receives money, which goes away as the Fed's accounts can't have more money.
 #+end_quote
 
+#+caption: Open-Market Operations Summary
+|------------------+------------------------+--------------------------|
+| Fed Action       | Effect in Money Supply | Effect on Fed Funds Rate |
+|------------------+------------------------+--------------------------|
+| Buys Securities  | Increases              | Decreases                |
+| Sells Securities | Decreases              | Increases                |
+|------------------+------------------------+--------------------------|
+
+
 *** The Discount Rate
 
 https://www.federalreserve.gov/monetarypolicy/discountrate.htm
