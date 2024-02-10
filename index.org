@@ -74,7 +74,7 @@ Say for example, the FOMC decides to raise the Federal Funds rate[fn:4] from 5.0
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1fshl&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 #+end_export
 
-To change the supply of funds, the Fed trading desk (at the NY Fed) conducts /open market operations/.  If the Fed wants to raise the Federal funds rate (As in our example) it sells securities.  This sale decreases the money supply, which raises the value of money (the interest rate).  If instead the Fed wanted to lower the Federal Funds rate it would have bought securities, which increases the money supply and lowers interest rates.
+To change the supply of funds, the Fed trading desk (at the NY Fed) conducts /open market operations/.  If the Fed wants to raise the Federal funds rate (as in our example) it sells securities.  This sale decreases the money supply, which raises the value of money (the interest rate).  If instead the Fed wanted to lower the Federal Funds rate it would have bought securities, which increases the money supply and lowers interest rates.
 
 #+begin_quote
 When you buy or sell securities the money supply doesn't change.  Why does the money supply change when the Fed buys or sells securities?
@@ -93,11 +93,19 @@ The key is the Fed is the source of money; it can't have any more or less.  So w
 
 *** The Discount Rate
 
+If member banks borrow directly from the Fed, they borrow at the /discount window/.  The rate at which they borrow is the /discount rate/.  Historically (pre 2008) the discount window was used infrequently, however as the banking sector has experienced a series of crises the discount window has become more important.
+
 https://www.federalreserve.gov/monetarypolicy/discountrate.htm
 
 *** Do OMO Only Affect Short-Term Rates?
 
-Historically the FOMC has only adjusted the Federal Funds and Discount rate, which are both short term rates.
+Historically the FOMC has only adjusted the Federal Funds rate via OMO, which is an over night rate (thus very short-term).  Adjusting the overnight rate can have an effect across the yield curve in a number of ways. First, if the market believes the Fed will keep the overnight rate at some level for a year, then by pure expectations this should be the one year interest rate.
+
+Also, by increasing the supply of federal funds, the Fed increases the propensity of banks to lend.  Thus, banks transfer the excess supply of funds at the overnight rate to an increased supply of loans across the yield curve, lowering longer term rates and increasing economic growth.  Conversely recusing the amount of federal funds lowers the amount of funds banks have to lend long term, which raising interest rates along the curve and slows economic growth.
+
+*Directly Affecting Long-term Rates*
+
+Since 2008 however the Fed has used open market operations (the buying and selling of marketable securities) buy longer dated securities.  Moreover, the Fed bought non-Treasury issued securities such as mortgage-backed securities (MBS).  The term the Fed used for this is /Quantitative Easing/ (QE).  See the description[fn:5] of [[https://en.wikipedia.org/wiki/Quantitative_easing][Quantitative Easing here]].  Be sure to scroll down to see the various iterations of QE.
 
 ** Reserve Requirement Ratio
 
@@ -108,6 +116,8 @@ If you look in most textbooks, it will likely list adjusting the reserve require
 
 
 * Footnotes
+
+[fn:5]Normally I don't disagree with Wikipedia, however its description of QE as "a novel form of monetary policy" is inaccurate.  QE prints money to buy long-term securities.  Printing money has existed throughout history, and using this money to buy mortgages instead of land itself, as ancient Rome did when debasing its currency, seems to be a somewhat artificial distinction.
 [fn:4]The Federal Funds rate is the rate at which bank's borrow and lend federal funds to eachother.  It is an overnight rate.  Federal funds are funds banks must hold at the Federal reserve. 
 
 [fn:3]Note many economists think this is not possible---see Milton Friedman. 
