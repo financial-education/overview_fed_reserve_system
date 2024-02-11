@@ -113,6 +113,16 @@ If you look in most textbooks, it will likely list adjusting the reserve require
 
 [[https://www.federalreserve.gov/monetarypolicy/reservereq.htm][However, on March 15, 2020 the Fed Board of Governors announced that they were setting the reserve requirement ratio to 0%, thereby eliminating reserve requirements for all depository institutions.]]
 
+* Global Coordination
+
+Fed policy is affected by what other central banks do.  For example, say the Bank of Japan (BOJ) increases the Japanese money supply.  Much of that Japanese currency (yen) may be converted to dollars and supplied in US markets.  In this way BOJ monetary policy can lower interest rates in the US.  Thus, when the FOMC is considering monetary policy it takes into account the expected actions of other central banks.  Because of this, central banks share information.
+
+
+* Fed Independence
+
+The Federal Reserve System is built on the bedrock of the separation of monetary and fiscal policy.  The Fed (monetary policy) must be independent of Congress and the President (fiscal policy).  If the Fed isn't independent of Congress, then Congress can spend with dollars created by the Fed.  This is called /monetizing the debt/---Congress sells debt to the Fed to spend.
+
+Unfortunately there is recent evidence that the Fed is not independent of Congress and the President. You can search for articles related to Fed independence from politicians---particularly see the relationship between Paul Volker and Ronald Regan.  The good news, however, is that the Fed is fairly independent when compared to other Central Banks.  
 
 
 * Footnotes
